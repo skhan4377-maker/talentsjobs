@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "govtjobs-ai-prod",
+  "private_key_id": "834077d58bdf5c03977f1c3fc2270a01b76730a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC9ZenRkCqYaDx4\ngYRWxdRCuC8Ep7xtvBLszHnxUDAgWyNGATH4dLpOmTmnKoSHRA9MBv6g6KtI0c8S\nqLYBXjwBDbqJK5AtG4gqLKG8xzhef9bRh9QBq96KA3ZLj14qZO4DpyOxEL4FGxNi\nPcvcNv6pSIQ3/NvZM96ZD50zXfN34FxS78hI35eY6W/BMCg6llZFL9yhpgG3CoQB\nkZcap3xM9YSxnsBjZQCuroDdkb5ceTkK6NObn/EijeXEQ57EaWIsc2lj2IoIiIJl\ncHI2kpfc9vYGjfQLO+x7fhCiENYcq0Lq3fMARhxd1AdJyJIrcCpzRHbosErIgdlw\nsHUe04KrAgMBAAECggEACTRXvbCE8W03ax/YP6NTon5zAoXoWWjnfoydbIXaIOhs\n+Wz7cbiyiTlXHPGrCSvclnRMkaNdF6fiqWR7m+tpfR+eriXo1thcsLgEkDkaWzVZ\nSkuQmRgyM4DhkeCA0gyfqJvJ10QaCAN92KtqKeSeUbnNey8VvCOSMNwaZrGtMGko\nek3VrmgNtdQsxt8zNU70rxjNbQX2/8bezDGtDTu9QWMB4GiQuuId+n72b/nj9YMA\nJIruOoTa4ksA1rgfJ6EgGdzR5TkzwJQCFonehL2222jUVZZ4NPDDd8XtpUgGqJug\nt0zJ+AUdyf0aVOJrpTklrKoUg1GkpCQc6wvx7EtzwQKBgQDu1kQY5kj3mqMMVdDH\nkzZCFmBM4Z+WIesVIjbfrvuj9HonunHhfZyg4PfAe6v8/sxk2grCxmu2dCBupS1G\nGjMWzB6xEr6ctRlfJcUNLgpXeo6beJLvxFo5IXJUJhdoQN0DO5qQ9rJCSEW4vFXx\nW+wManOO3KnMBasg0ZbURpHciwKBgQDLAia+PEUdEaetCnCm8U8KIauXUcwQneTz\n+KKNtlurkM4Mt1IS8he3mylfxkL/YmurzE9qVh8jXDYTPERpkGN846xFDZOzJppo\nP5eyoNPWhKxfgSLR2QJM/S3ISGYadPsSre/E/x8pAXhrKuz/2DakcIWUQya6vVAB\nRO2qJjEWYQKBgQDKjPSbmVFwi7iTkYPKfdKaIZfyG7bYAFP6TFX1RdUrqv6eCsTh\n00GuPpxepYOqv/xf23sczGI1Di8jJvpKZZXGU74Dtj3pcLzfsIx5LP6gSdP/jjYv\nGXra0L7BFrzrMXc+cqIXJuDuzZQzo6XPV4HM1crC8ekemgATiSw9QswZGQKBgQCN\nhIRpnS4443PWJy780b9durcZl4YAF3HhuXPoAjXJVfqt1qW6W1W5QssG3vkZewzA\nCH9cC4lNZxyzMBIo3OTdzQDsaliKTODax2oCtia2pmpbcXRKgVMfRGdD9WRoESBt\nlx9MXuTj+whs/NGWUK1W2LHl9yHqj8pT+C8Nq+4QQQKBgQCsEk4Vo80aqHPUnk7r\nBHeOksg+ALcGRso5OwQDivxhs+eK77PeuyK9xm5SrD5pD34ygQinvLBY1sCIyr++\n8n2kaKUYdJzqTqyQcoJu+5qJW/jMEjkg5WcS6/Wo4LzEJtivkNh6e5+OQPs7oVkB\n0LhzcRAZd2OiYL1xx5fvtKbHcA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@govtjobs-ai-prod.iam.gserviceaccount.com",
+  "client_id": "106213167377000067062",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40govtjobs-ai-prod.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
