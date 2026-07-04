@@ -1,0 +1,35 @@
+[
+  {
+    "category": "Bachelor's Degrees",
+    "options": [
+      "B.Arch", "B.A", "B.A B.Ed", "BAMS", "BBA", "BBM", "BBS", "B.Com",
+      "BCJ", "BCA", "BCS", "B.Des", "B.Ed", "B.E", "BFA", "BHM", "LLB",
+      "MBBS", "BMCC", "B.Pharm", "B.P.Ed", "B.Sc", "B.Tech"
+    ]
+  },
+  {
+    "category": "Master's Degrees",
+    "options": [
+      "M.A", "M.Sc", "M.Tech", "MCA", "MBA", "PGDM"
+    ]
+  },
+  {
+    "category": "Combined Programs",
+    "options": [
+      "Integrated B.A & B.Ed", "Integrated B.E/B.Tech & MBA",
+      "Integrated M.A", "Integrated MBA", "Integrated M.Sc"
+    ]
+  },
+  {
+    "category": "Doctoral & Research",
+    "options": ["Ph.D."]
+  },
+  {
+    "category": "Diplomas",
+    "options": ["Diploma in Engineering"]
+  },
+  {
+    "category": "Other",
+    "options": ["Other"]
+  }
+]

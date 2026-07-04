@@ -1,0 +1,46 @@
+RewriteEngine On
+
+# =========================
+# ✅ Redirect browse-jobs/jobs → browse-jobs (FIRST)
+# =========================
+RewriteRule ^browse-jobs/jobs/?$ /browse-jobs [R=301,L]
+
+# =========================
+# 🔁 Redirect job-detail → clean slug
+# =========================
+RewriteRule ^job-detail/(.+)$ /$1 [R=301,L]
+
+# =========================
+# 🔒 Force HTTPS (except sitemap)
+# =========================
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} !^/sitemap/.*\.xml$ [NC]
+RewriteCond %{REQUEST_URI} !^/sitemap\.xml$ [NC]
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+# =========================
+# 📄 Handle XML with PHP
+# =========================
+<FilesMatch "\.xml$">
+    SetHandler application/x-httpd-php
+</FilesMatch>
+
+# =========================
+# 🚀 Main CI Rewrite (CodeIgniter)
+# =========================
+<IfModule mod_rewrite.c>
+    Options -Indexes
+
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} !^/sitemap/
+
+    RewriteRule ^(.*)$ index.php/$1 [L,QSA]
+</IfModule>
+
+# =========================
+# 🔐 Security Header
+# =========================
+<IfModule mod_headers.c>
+    Header always set Content-Security-Policy "upgrade-insecure-requests;"
+</IfModule>

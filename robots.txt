@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /downloads/
+
+User-agent: magicsearchbot
+Disallow: /uploads/
+
+Sitemap: https://talentsjobs.in/sitemap/sitemap_index.xml

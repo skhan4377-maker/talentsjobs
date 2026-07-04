@@ -1,0 +1,16 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9268075008862469"
+     crossorigin="anonymous"></script>
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9268075008862469"
+     crossorigin="anonymous"></script>
+<!-- main -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9268075008862469"
+     data-ad-slot="6220165203"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></head>
+<br></br>
